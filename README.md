@@ -1,3 +1,19 @@
+# GAOGAO Gate 4th LP課題
+
+# ブラウザで表示するには
+下にもQuick Start書いてありますが一応
+- gulpをインストール（グローバルが不要か未確認）
+`npm install -g gulp`
+`npm install`
+- browsersync(変更をライブリロードするマン等)起動
+`gulp`
+localhost:3000が開きます
+コンソールはlocalhost:3001
+
+---
+以下フォーク元ママです
+---
+
 # [Fitness: Bootstrap 4 website template](http://buckymaler.com/fitness)
 
 ### [Featured on BlazRobar](http://blazrobar.com/free-psd-website-templates/fitness-one-pager-html-template/)
