@@ -3,10 +3,10 @@
 
 ## ブラウザで表示するには
 下にもQuick Start書いてありますが一応
-- gulpをインストール（グローバルが不要か未確認）
+- gulpをインストール（グローバルが不要か未確認）  
     `npm install -g gulp`  
     `npm install`  
-- browsersync(変更をライブリロードするマン等)起動
+- browsersync(変更をライブリロードするマン等)起動  
     `gulp`
 
 `localhost:3000`が開きます  
